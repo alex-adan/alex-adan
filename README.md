@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/alex-adan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alex-adan/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [VPN in Virtual Machines](https://github.com/alex-adan/vpn-vm)
+  - [VPN Configuration in Virtual Machines](https://github.com/alex-adan/vpn-vm)
 
 <h2>🤝Connect with me:</h2>
 
